@@ -1,6 +1,6 @@
 ---
-name: "[feature] 제안"
-about: 이 프로젝트에 대한 아이디어 제안
+name: "[enhancement] 개선"
+about: 이 프로젝트에 대한 개선 아이디어
 title: ''
 labels: enhancement
 assignees: taehoon7289
