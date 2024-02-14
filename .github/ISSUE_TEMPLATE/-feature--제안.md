@@ -2,8 +2,8 @@
 name: "[feature] 제안"
 about: 이 프로젝트에 대한 아이디어 제안
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: taehoon7289
 
 ---
 

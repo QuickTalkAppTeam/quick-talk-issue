@@ -2,7 +2,7 @@
 name: "[bug] 버그"
 about: 개선에 도움이 되는 보고서 작성
 title: ''
-labels: ''
+labels: bug
 assignees: taehoon7289
 
 ---
